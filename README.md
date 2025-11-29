@@ -29,6 +29,3 @@
   </div>
 </div>
 
-## 📫 Связаться
-- Telegram: [@IvaGroz](https://t.me/IvaGroz)  
-- Email: `9994403@bk.ru`
