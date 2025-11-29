@@ -4,7 +4,7 @@
 
 <h2>🛠️ Languages and Tools</h2>
 
-<div style="text-align: left;">
+<div>
   <!-- Первая строка -->
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -16,7 +16,7 @@
   </div>
   
   <!-- Вторая строка -->
-  <div style="margin-top: 10px;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
