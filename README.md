@@ -4,7 +4,7 @@
 
 <h2>🛠️ Languages and Tools</h2>
 
-<div>
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
   <!-- Первая строка -->
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -24,7 +24,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   </div>
 </div>
-
 ## 💻 Технологии
 
 - **Backend**: Java (Jakarta EE, CDI, JPA, EJB), JAX-RS, REST, WildFly  
